@@ -1,0 +1,14 @@
+{
+  "name": "akshaybhandari-nagioscinder",
+  "version": "0.1.0",
+  "author": "akshaybhandari",
+  "summary": "OpenStack cinder specific puppet modules for configuring OpenStack monitoring using Nagios",
+  "license": "Apache 2.0",
+  "source": "https://github.com/akshaybhandari/nagioscinder.git",
+  "project_page": "https://github.com/akshaybhandari/nagioscinder",
+  "issues_url": "https://github.com/akshaybhandari/nagioscinder/issues",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs/stdlib"}
+  ]
+}
+
